@@ -38,6 +38,17 @@ img {
 	width: 40%;
 }
 
+ol {
+	color: white;
+	font-size: 1em;
+	font-weight: normal;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+
 li {
 	color: white;
 	font-size: 1em;
