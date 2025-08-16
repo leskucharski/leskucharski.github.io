@@ -31,8 +31,8 @@ h2 {
 .main {
 	margin: auto;
 	width: 50%;
-	padding: 40px;
-	position: relative;
-	display: flex;
+	padding: 10px;
 	justify-content: center;
+	text-align: center;
+	border: 3px solid green;
 }
