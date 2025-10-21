@@ -61,6 +61,10 @@ img.disco {
     max-width: 80% !important;
 }
 
+img.pisco {
+    max-width: 100% !important;
+}
+
 .centreTable {
     margin: 0px auto;
     width: 60%;
